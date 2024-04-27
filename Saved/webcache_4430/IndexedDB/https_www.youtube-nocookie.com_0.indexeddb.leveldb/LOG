@@ -1,0 +1,6 @@
+2024/04/18-18:57:12.753 c54 Creating DB E:/unrealEngine/Acquedotto/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/04/18-18:57:12.775 c54 Reusing MANIFEST E:/unrealEngine/Acquedotto/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/18-19:31:30.939 4e48 Level-0 table #5: started
+2024/04/18-19:31:30.957 4e48 Level-0 table #5: 1167 bytes OK
+2024/04/18-19:31:30.962 4e48 Delete type=0 #3
+2024/04/18-19:31:30.962 4e48 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

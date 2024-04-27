@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/unrealEngine/Acquedotto/Content/Livelli/Acquedotto.umap",
+				"E:/unrealEngine/Acquedotto/Content/Mesh/Arcata/arcoRomano.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Megascans/Surfaces/Roman_Aqueduct_Wall_tf4kajwn/MI_Roman_Aqueduct_Wall_tf4kajwn_1K.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Landscape/M_Landscape.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Livelli/Acquedotto_sharedassets/Desert_LayerInfo.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Livelli/Acquedotto_sharedassets/Grass_LayerInfo.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Livelli/Acquedotto_sharedassets/Rock_LayerInfo.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Megascans/3D_Assets/Roman_Statue_tgeodcxda/S_Roman_Statue_tgeodcxda_lod5.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Megascans/Decals/Tileable_Leakage_tc1fea3c/MI_Tileable_Leakage_tc1fea3c_1K.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Megascans/Decals/Tileable_Leakage_tc1fea3c/MI_Tileable_Leakage_tc1fea3c_1K1.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Blueprints/BP_Coin.uasset",
+				"E:/unrealEngine/Acquedotto/Content/LevelSequence.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Megascans/3D_Plants/Wheat_smdoejyr/Foliage/FT_Wheat_smdoejyr_Var1_lod1.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Megascans/3D_Plants/Wheat_smdoejyr/Foliage/FT_Wheat_smdoejyr_Var2_lod1.uasset",
+				"E:/unrealEngine/Acquedotto/Content/Megascans/3D_Plants/Wheat_smdoejyr/Foliage/FT_Wheat_smdoejyr_Var6_lod1.uasset"
+			]
+		}
+	]
+}
